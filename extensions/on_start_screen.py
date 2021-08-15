@@ -42,7 +42,6 @@ logo = """
 
 """
 print(logo)
-
 copyright = "Copyright (c) 2021 lucaso60, Copyright (c) 2015-present Rapptz"
 print()
 print(copyright)

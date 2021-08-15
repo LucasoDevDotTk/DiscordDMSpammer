@@ -38,7 +38,6 @@ def time_now():
 
 TOKEN = input(f"{time_now()} Please input your bot token: ")
 
-
 bot = commands.Bot(command_prefix=".")
 
 @bot.event
