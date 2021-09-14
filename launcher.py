@@ -23,7 +23,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 import discord
-from discord.ext import commands
 from discord import *
 from datetime import datetime
 from time import sleep
@@ -38,7 +37,7 @@ def time_now():
 
 TOKEN = input(f"{time_now()} Please input your bot token: ")
 
-bot = commands.Bot(command_prefix=".")
+bot = discord.Bot(command_prefix=".")
 
 @bot.event
 async def on_ready():
