@@ -1,6 +1,6 @@
 
 # DiscordDMSpammer
-A simple Discord DM Spammer made with pycord/discord.py in python. A similar project of DiscordChannelSpammer. You can find that project's repo at https://github.com/LEL-Studios/DiscordChannelSpammer.
+A simple Discord DM Spammer made with pycord/discord.py in python. A similar project of DiscordChannelSpammer. You can find that project's repo at https://github.com/Lucestra-Studios/DiscordChannelSpammer.
 ___
 
 # LICENSE
